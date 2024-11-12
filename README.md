@@ -1,4 +1,4 @@
-#<h2 align="left">About Me</h2>
+<h2 align="left">About Me</h2>
 
 ###
 
@@ -27,6 +27,10 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
 </div>
+
+###
+
+<h2 align="left">Status</h2>
 
 ###
 
